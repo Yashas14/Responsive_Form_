@@ -16,7 +16,7 @@ This project was an exciting opportunity to delve into the intricacies of HTML, 
 Experience the form in action by visiting the [live demo](https://responsiveformvoc.netlify.app/)).
 
 #### 🛠️ Explore More
-Curious about more of my work? Check out my [GitHub](https://github.com/Yashas14/Responsive_Form_/blob/main/index.html) for additional projects and updates. Let's code something amazing together!
+Curious about more of my work? Check out my [GitHub](https://github.com/Yashas14) for additional projects and updates. Let's code something amazing together!
 
 Feel free to reach out for any questions or collaboration opportunities!
 - **Yashas D**  - [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)

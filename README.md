@@ -18,5 +18,7 @@ Experience the form in action by visiting the [live demo](https://responsiveform
 #### 🛠️ Explore More
 Curious about more of my work? Check out my [GitHub](https://github.com/Yashas14) for additional projects and updates. Let's code something amazing together!
 
+## 👥 Connect With us:
+
+**Yashas D** [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 Feel free to reach out for any questions or collaboration opportunities!
-- **Yashas D**  - [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
